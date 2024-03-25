@@ -1,0 +1,24 @@
+{
+  "name": "infra",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanjoRamirez262/infra.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanjoRamirez262/infra/issues"
+  },
+  "homepage": "https://github.com/JuanjoRamirez262/infra#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
